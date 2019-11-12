@@ -1,0 +1,10 @@
+Println:
+
+main:
+a;<symboltable.Integer instance at 0x7f5106b9aef0>;3
+temp2;<symboltable.Integer instance at 0x7f5106b9aef0>;3
+temp1;<symboltable.String instance at 0x7f5106b9aa70>;3
+
+global:
+Println;<symboltable.Function instance at 0x7f5106b9ad40>;0
+main;<symboltable.Function instance at 0x7f5106b9aa28>;0

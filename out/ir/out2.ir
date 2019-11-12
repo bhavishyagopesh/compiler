@@ -1,0 +1,44 @@
+package main
+import fmt
+var glob1_0
+Func Println_0 :
+Func End#
+Func max_0 :
+temp1_3 = a_2 > b_2
+if ! temp1_3 goto else_start_2
+temp2_4 = a_2 > c_2
+if ! temp2_4 goto else_start_0
+return a_2
+goto else_end_0
+else_start_0 :
+return c_2
+else_end_0 :
+goto else_end_2
+else_start_2 :
+temp3_3 = b_2 > c_2
+if ! temp3_3 goto else_start_1
+return b_2
+goto else_end_1
+else_start_1 :
+return c_2
+else_end_1 :
+else_end_2 :
+Func End#
+Func main_0 :
+const temp4_10
+temp4_10 = "Function to Find max of 3 numbers"
+paramst Println_0, 1
+params temp4_10
+const temp5_10
+temp5_10 = 4
+const temp6_10
+temp6_10 = 5
+const temp7_10
+temp7_10 = 6
+var x_10
+x_10 = temp5_10
+var y_10
+y_10 = temp6_10
+var z_10
+z_10 = temp7_10
+Func End#

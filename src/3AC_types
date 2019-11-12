@@ -1,0 +1,51 @@
+package STRING
+
+import STRING
+
+const VAR_NAME
+
+A = B
+
+A = B op C
+
+A = "STRING"
+
+var A
+
+paramst funcname, numparam
+
+params p1
+
+call funcname 
+
+A ++
+
+A --
+
+if ! A goto label
+
+goto label
+
+return A
+
+A = B == C
+
+Func End#
+
+Func label :
+
+label :
+
+x = A["INT"]
+
+A["INT"] = x
+
+x = *y
+
+*y = x
+
+y = &x
+
+x = A.y
+
+A.y = x

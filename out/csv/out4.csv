@@ -1,0 +1,47 @@
+Println:
+
+main:
+arr;<symboltable.Array instance at 0x7f3c30368758>;3
+point;<symboltable.Pointer instance at 0x7f3c302fa6c8>;3
+temp22;<symboltable.Integer instance at 0x7f3c30368ea8>;3
+temp23;<symboltable.Integer instance at 0x7f3c30368c68>;3
+temp20;<symboltable.Integer instance at 0x7f3c302ebef0>;3
+temp21;<symboltable.Integer instance at 0x7f3c30368998>;3
+temp26;<symboltable.Integer instance at 0x7f3c302fae60>;3
+temp27;<symboltable.Integer instance at 0x7f3c302fa9e0>;3
+temp24;<symboltable.Integer instance at 0x7f3c302faea8>;3
+temp25;<symboltable.Integer instance at 0x7f3c302fa950>;3
+temp3;<symboltable.Integer instance at 0x7f3c302ebbd8>;3
+temp2;<symboltable.Integer instance at 0x7f3c302ebb48>;3
+temp1;<symboltable.Integer instance at 0x7f3c302eb680>;3
+temp7;<symboltable.Integer instance at 0x7f3c302ebcb0>;3
+temp6;<symboltable.Integer instance at 0x7f3c302ebef0>;3
+temp5;<symboltable.Integer instance at 0x7f3c302ebf80>;3
+temp4;<symboltable.Integer instance at 0x7f3c302ebdd0>;3
+temp9;<symboltable.Integer instance at 0x7f3c302ebcb0>;3
+temp8;<symboltable.Integer instance at 0x7f3c302eb248>;3
+temp28;<symboltable.Integer instance at 0x7f3c302fa830>;3
+temp13;<symboltable.Integer instance at 0x7f3c302eb290>;3
+temp12;<symboltable.Integer instance at 0x7f3c302ebef0>;3
+temp11;<symboltable.Integer instance at 0x7f3c302ebc68>;3
+temp10;<symboltable.Integer instance at 0x7f3c302ebef0>;3
+temp17;<symboltable.Integer instance at 0x7f3c302eb0e0>;3
+temp16;<symboltable.Integer instance at 0x7f3c302ebef0>;3
+temp15;<symboltable.Integer instance at 0x7f3c302eb290>;3
+temp14;<symboltable.Integer instance at 0x7f3c302eb950>;3
+temp19;<symboltable.Integer instance at 0x7f3c302eb0e0>;3
+temp18;<symboltable.Integer instance at 0x7f3c30368950>;3
+a;<symboltable.Integer instance at 0x7f3c302ebef0>;3
+c;<symboltable.Integer instance at 0x7f3c30368ea8>;3
+b;<symboltable.Integer instance at 0x7f3c30368998>;3
+e;<symboltable.Integer instance at 0x7f3c30368908>;3
+g;<symboltable.Integer instance at 0x7f3c302eb680>;3
+i;<symboltable.Integer instance at 0x7f3c302ebbd8>;3
+h;<symboltable.Integer instance at 0x7f3c302ebb48>;3
+k;<symboltable.Integer instance at 0x7f3c302eb908>;3
+j;<symboltable.Integer instance at 0x7f3c302eb908>;3
+stru;<symboltable.Struct instance at 0x7f3c302facb0>;3
+
+global:
+Println;<symboltable.Function instance at 0x7f3c302eb7e8>;0
+main;<symboltable.Function instance at 0x7f3c302eb908>;0

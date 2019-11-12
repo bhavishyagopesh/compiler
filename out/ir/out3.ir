@@ -1,0 +1,24 @@
+package main
+import fmt
+Println_0:
+main_0:
+const temp1_3
+temp1_3 = 1
+var a_3
+a_3 = temp1_3
+const temp2_4
+temp2_4 = 2
+a_3=temp2_4
+label_for_1:
+const temp3_4
+temp3_4 = 3
+temp4_4=a_3<=temp3_4
+if !temp4_4  goto endFor_1
+const temp5_5
+temp5_5 = "Still inside the loop"
+call Println_0,1
+params temp5_5
+cond_update_1:
+a_3--
+goto label_for_1
+endFor_1:

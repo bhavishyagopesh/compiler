@@ -1,0 +1,74 @@
+package main
+import fmt
+Println_0:
+len_0:
+main_0:
+var a_4
+var twoD_4
+const temp1_4
+temp1_4 = "emp:"
+call Println_0,2
+params temp1_4
+params a_4
+const temp2_4
+temp2_4 = "set:"
+call Println_0,2
+params temp2_4
+params a_4
+const temp3_4
+temp3_4 = "get:"
+const temp4_4
+temp4_4 = 4
+call Println_0,2
+params temp3_4
+params a_4[temp4_4]
+const temp5_4
+temp5_4 = 0
+const temp6_4
+temp6_4 = 0
+var i_4
+i_4 = temp5_4
+var j_4
+j_4 = temp6_4
+const temp7_5
+temp7_5 = 0
+i_4=temp7_5
+label_for_1:
+const temp8_5
+temp8_5 = 2
+temp9_5=i_4<temp8_5
+if !temp9_5  goto endFor_1
+const temp10_7
+temp10_7 = 0
+j_4=temp10_7
+label_for_3:
+const temp11_7
+temp11_7 = 3
+temp12_7=j_4<temp11_7
+if !temp12_7  goto endFor_3
+temp13_8=i_4+j_4
+twoD_4[i_4][j_4]=temp13_8
+const temp14_8
+temp14_8 = 3
+temp15_8=i_4==temp14_8
+if !temp15_8 goto else_start_0
+goto cond_update_3
+goto else_end_0
+else_start_0:
+else_end_0:
+const temp16_8
+temp16_8 = 4
+temp17_8=i_4>temp16_8
+if !temp17_8 goto else_start_1
+goto endFor_3
+goto else_end_1
+else_start_1:
+else_end_1:
+cond_update_3:
+j_4++
+goto label_for_3
+endFor_3:
+cond_update_1:
+i_4++
+goto label_for_1
+endFor_1:

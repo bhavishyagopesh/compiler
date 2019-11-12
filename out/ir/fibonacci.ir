@@ -1,0 +1,45 @@
+package main
+import fmt
+Func Println_0 :
+Func End#
+Func fibonacci_0 :
+var a_3
+var b_3
+var t_3
+var i_3
+const temp1_3
+temp1_3 = 0
+a_3 = temp1_3
+const temp2_3
+temp2_3 = 1
+b_3 = temp2_3
+const temp3_4
+temp3_4 = 0
+i_3 = temp3_4
+label_for_1 :
+const temp4_4
+temp4_4 = 1
+temp5_4 = i_3 < temp4_4
+if ! temp5_4 goto endFor_1
+t_3 = b_3
+temp6_5 = b_3 + a_3
+b_3 = temp6_5
+a_3 = t_3
+cond_update_1 :
+i_3 ++
+goto label_for_1
+endFor_1 :
+return a_3
+Func End#
+Func main_0 :
+const temp7_7
+temp7_7 = "Function of 10 is "
+paramst Println_0, 1
+params temp7_7
+const temp8_7
+temp8_7 = 10
+paramst fibonacci_0, 1
+params temp8_7
+paramst Println_0, 1
+params call fibonacci_0
+Func End#

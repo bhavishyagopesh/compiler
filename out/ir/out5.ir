@@ -1,0 +1,42 @@
+package main
+import fmt
+main_0:
+const temp1_2
+temp1_2 = 1
+const temp2_2
+temp2_2 = 3
+const temp3_2
+temp3_2 = 4
+var a_2
+a_2 = temp1_2
+var b_2
+b_2 = temp2_2
+var c_2
+c_2 = temp3_2
+const temp4_2
+temp4_2 = "a"
+const temp5_2
+temp5_2 = "b"
+const temp6_2
+temp6_2 = "c"
+var x_2
+x_2 = temp4_2
+var y_2
+y_2 = temp5_2
+var z_2
+z_2 = temp6_2
+const q_2
+const w_2
+const e_2
+const temp7_2
+temp7_2 = 1
+const temp8_2
+temp8_2 = 2
+const temp9_2
+temp9_2 = 3
+const r_2
+r_2 = temp7_2
+const t_2
+t_2 = temp8_2
+const u_2
+u_2 = temp9_2

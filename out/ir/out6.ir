@@ -1,0 +1,26 @@
+package main
+import fmt
+Println_0:
+main_0:
+const temp1_3
+temp1_3 = 1
+const temp2_3
+temp2_3 = 4
+var a_3
+a_3 = temp1_3
+var n_3
+n_3 = temp2_3
+const temp3_3
+temp3_3 = 0
+temp4_3=n_3==temp3_3
+if !temp4_3 goto else_start_0
+const temp5_4
+temp5_4 = 5
+a_3=temp5_4
+goto else_end_0
+else_start_0:
+else_end_0:
+const temp6_3
+temp6_3 = 4
+call Println_0,1
+params temp6_3

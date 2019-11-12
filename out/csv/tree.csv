@@ -1,0 +1,15 @@
+Println:
+
+main:
+lchild;<symboltable.Struct instance at 0x7f4d6fa7ce18>;3
+parent;<symboltable.Struct instance at 0x7f4d6fa7ce18>;3
+temp3;<symboltable.Integer instance at 0x7f4d6fa7c7e8>;3
+temp2;<symboltable.Integer instance at 0x7f4d6fa7c830>;3
+temp1;<symboltable.Integer instance at 0x7f4d6fa7c908>;3
+rchild;<symboltable.Struct instance at 0x7f4d6fa7ce18>;3
+
+global:
+Println;<symboltable.Function instance at 0x7f4d6fa7ca28>;0
+main;<symboltable.Function instance at 0x7f4d6fa7c9e0>;0
+Tree;<symboltable.Struct instance at 0x7f4d6fa7ce18>;0
+nil;<symboltable.Pointer instance at 0x7f4d6fa7cef0>;0

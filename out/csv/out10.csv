@@ -1,0 +1,26 @@
+Println:
+
+Signm:
+temp7;<symboltable.Integer instance at 0x7fd5f1379560>;4
+temp9_4;<symboltable.Integer instance at 0x7fd5f1379488>;4
+temp5;<symboltable.String instance at 0x7fd5f13791b8>;4
+temp4;<symboltable.Integer instance at 0x7fd5f13793b0>;4
+temp8;<symboltable.String instance at 0x7fd5f13793f8>;4
+temp10_4;<symboltable.Integer instance at 0x7fd5f1379878>;4
+temp6;<symboltable.Integer instance at 0x7fd5f1379680>;4
+temp3;<symboltable.Integer instance at 0x7fd5f1379710>;3
+temp2;<symboltable.Integer instance at 0x7fd5f13794d0>;3
+temp1;<symboltable.Integer instance at 0x7fd5f1379710>;3
+a;<symboltable.Integer instance at 0x7fd5f1379710>;3
+temp11;<symboltable.String instance at 0x7fd5f13795a8>;3
+a;<symboltable.Integer instance at 0x7fd5f1380a70>;2
+
+main:
+temp13;<symboltable.Integer instance at 0x7fd5f1379830>;6
+temp12;<symboltable.String instance at 0x7fd5f1379d40>;6
+a;<symboltable.Integer instance at 0x7fd5f1379830>;6
+
+global:
+Println;<symboltable.Function instance at 0x7fd5f1380908>;0
+Signm;<symboltable.Function instance at 0x7fd5f1379758>;0
+main;<symboltable.Function instance at 0x7fd5f1379d88>;0

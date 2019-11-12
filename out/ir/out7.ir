@@ -1,0 +1,38 @@
+package main
+import fmt
+Println_0:
+plus_0:
+temp1_3=a_2+b_2
+return temp1_3
+plusPlus_0:
+temp2_5=a_4+b_4
+temp3_5=temp2_5+c_4
+return temp3_5
+main_0:
+const temp4_7
+temp4_7 = 1
+const temp5_7
+temp5_7 = 2
+temp6_7=temp4_7+temp5_7
+var res_7
+res_7 = temp6_7
+const temp7_7
+temp7_7 = "1+2 ="
+call Println_0,2
+params temp7_7
+params res_7
+const temp8_7
+temp8_7 = 1
+const temp9_7
+temp9_7 = 2
+temp10_7=temp8_7+temp9_7
+const temp11_7
+temp11_7 = 3
+temp12_7=temp10_7+temp11_7
+var res1_7
+res1_7 = temp12_7
+const temp13_7
+temp13_7 = "1+2+3 ="
+call Println_0,2
+params temp13_7
+params res1_7

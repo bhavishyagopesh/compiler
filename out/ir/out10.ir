@@ -1,0 +1,55 @@
+package main
+import fmt
+import math
+Func Println_0 :
+Func End#
+Func Signm_0 :
+const temp1_3
+temp1_3 = 4
+const temp2_3
+temp2_3 = 5
+temp3_3 = temp1_3 + temp2_3
+var a_3
+a_3 = temp3_3
+label_case_2 :
+const temp4_4
+temp4_4 = 1
+var temp9_4
+temp9_4 = temp4_4 == a_3
+if ! temp9_4 goto label_case_3
+const temp5_4
+temp5_4 = "asdas"
+paramst Println_0, 1
+params temp5_4
+goto label_switch_end_1
+label_case_3 :
+const temp7_4
+temp7_4 = 3
+var temp10_4
+temp10_4 = temp7_4 == a_3
+if ! temp10_4 goto label_case_4
+const temp8_4
+temp8_4 = "asdas"
+paramst Println_0, 1
+params temp8_4
+goto label_switch_end_1
+label_case_4 :
+const temp6_4
+temp6_4 = 3
+a_3 = temp6_4
+label_switch_end_1 :
+const temp11_3
+temp11_3 = "saket"
+return a_3
+return temp11_3
+Func End#
+Func main_0 :
+const temp12_6
+temp12_6 = "Hello, playground"
+paramst Println_0, 1
+params temp12_6
+const temp13_6
+temp13_6 = 4
+var a_6
+a_6 = temp13_6
+Func End#

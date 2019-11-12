@@ -1,0 +1,25 @@
+main:
+a;<symboltable.Integer instance at 0x7fe870a4b878>;2
+q;None;2
+c;<symboltable.Integer instance at 0x7fe870a4b878>;2
+b;<symboltable.Integer instance at 0x7fe870a4b878>;2
+e;None;2
+w;None;2
+temp8;<symboltable.Integer instance at 0x7fe870a4bf80>;2
+temp3;<symboltable.Integer instance at 0x7fe870a4bb90>;2
+temp2;<symboltable.Integer instance at 0x7fe870a4b950>;2
+temp1;<symboltable.Integer instance at 0x7fe870a4b908>;2
+r;<symboltable.Integer instance at 0x7fe870a4bf38>;2
+temp7;<symboltable.Integer instance at 0x7fe870a4bf38>;2
+temp6;<symboltable.String instance at 0x7fe870a4bdd0>;2
+temp5;<symboltable.String instance at 0x7fe870a4bbd8>;2
+temp4;<symboltable.String instance at 0x7fe870a4b518>;2
+y;<symboltable.String instance at 0x7fe870a4bbd8>;2
+x;<symboltable.String instance at 0x7fe870a4b518>;2
+temp9;<symboltable.Integer instance at 0x7fe870a4bc68>;2
+z;<symboltable.String instance at 0x7fe870a4bdd0>;2
+u;<symboltable.Integer instance at 0x7fe870a4bc68>;2
+t;<symboltable.Integer instance at 0x7fe870a4bf80>;2
+
+global:
+main;<symboltable.Function instance at 0x7fe870a4bf80>;0

@@ -1,0 +1,9 @@
+package main
+import fmt
+var person_0
+Println_0:
+main_0:
+var s_3
+s_3 = &person_0
+call Println_0,1
+params s_3

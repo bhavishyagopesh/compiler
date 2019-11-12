@@ -1,0 +1,22 @@
+package main
+import fmt
+var Node_0
+Func Println_0 :
+Func End#
+var nil_0
+Func main_0 :
+var s_3
+s_3 = & Node_0
+const temp1_3
+temp1_3 = 1
+s_3.key = temp1_3
+s_3.next = nil_0
+var t_3
+t_3 = & Node_0
+const temp2_3
+temp2_3 = 2
+t_3.key = temp2_3
+t_3.next = nil_0
+paramst Println_0, 1
+params s_3
+Func End#

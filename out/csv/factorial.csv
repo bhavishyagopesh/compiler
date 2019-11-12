@@ -1,0 +1,18 @@
+Println:
+
+factorial:
+temp3;<symboltable.Integer instance at 0x7f2af11b4a28>;5
+temp2;<symboltable.Integer instance at 0x7f2af11b4a28>;4
+temp1;<symboltable.Integer instance at 0x7f2af11b48c0>;4
+i;<symboltable.Integer instance at 0x7f2af11b4a28>;3
+ans;<symboltable.Integer instance at 0x7f2af11b4a28>;3
+n;<symboltable.Integer instance at 0x7f2af11b4c20>;2
+
+main:
+temp5;<symboltable.Integer instance at 0x7f2af11b4710>;7
+temp4;<symboltable.String instance at 0x7f2af11b4908>;7
+
+global:
+Println;<symboltable.Function instance at 0x7f2af11b4e18>;0
+factorial;<symboltable.Function instance at 0x7f2af11b4cb0>;0
+main;<symboltable.Function instance at 0x7f2af11b47a0>;0

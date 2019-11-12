@@ -1,0 +1,31 @@
+package main
+import fmt
+var Tree_0
+Func Println_0 :
+Func End#
+var nil_0
+Func main_0 :
+var parent_3
+parent_3 = & Tree_0
+const temp1_3
+temp1_3 = 1
+parent_3.key = temp1_3
+parent_3.Left = nil_0
+parent_3.Right = nil_0
+var lchild_3
+lchild_3 = & Tree_0
+const temp2_3
+temp2_3 = 2
+lchild_3.key = temp2_3
+lchild_3.Left = nil_0
+lchild_3.Right = nil_0
+var rchild_3
+rchild_3 = & Tree_0
+const temp3_3
+temp3_3 = 3
+rchild_3.key = temp3_3
+rchild_3.Left = nil_0
+rchild_3.Right = nil_0
+paramst Println_0, 1
+params parent_3
+Func End#

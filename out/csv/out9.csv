@@ -1,0 +1,9 @@
+Println:
+
+main:
+s;<symboltable.Struct instance at 0x7fee5c5b07a0>;3
+
+global:
+Println;<symboltable.Function instance at 0x7fee5c5b0908>;0
+person;<symboltable.Struct instance at 0x7fee5c5b07a0>;0
+main;<symboltable.Function instance at 0x7fee5c5b0b90>;0

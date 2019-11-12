@@ -1,0 +1,79 @@
+package main
+import fmt
+Println_0:
+main_0:
+const temp1_3
+temp1_3 = 100
+const temp2_3
+temp2_3 = 1000
+const temp3_3
+temp3_3 = 10000
+const g_3
+g_3 = temp1_3
+const h_3
+h_3 = temp2_3
+const i_3
+i_3 = temp3_3
+const temp4_3
+temp4_3 = 12
+const temp5_3
+temp5_3 = 13
+j_3 = temp4_3
+k_3 = temp5_3
+const temp6_3
+temp6_3 = 1
+const temp7_3
+temp7_3 = 2
+const temp8_3
+temp8_3 = 4
+temp9_3=temp7_3/temp8_3
+temp10_3=temp6_3+temp9_3
+const temp11_3
+temp11_3 = 3
+temp12_3=temp10_3>temp11_3
+const temp13_3
+temp13_3 = 4
+const temp14_3
+temp14_3 = 4
+temp15_3=temp13_3+temp14_3
+temp16_3=temp12_3>=temp15_3
+const temp17_3
+temp17_3 = 3
+const temp18_3
+temp18_3 = 8
+temp19_3=temp17_3&&temp18_3
+temp20_3=temp16_3||temp19_3
+var a_3
+a_3 = temp20_3
+const temp21_3
+temp21_3 = 1
+const temp22_3
+temp22_3 = 3
+var b_3
+b_3 = temp21_3
+var c_3
+c_3 = temp22_3
+var e_3
+e_3 = c_3
+var arr_3
+const temp23_3
+temp23_3 = 1
+const temp24_3
+temp24_3 = 2
+const temp25_3
+temp25_3 = 3
+a_3=temp23_3
+b_3=temp24_3
+c_3=temp25_3
+var stru_3
+var point_3
+call Println_0,1
+params stru_3.x
+const temp27_3
+temp27_3 = 1
+const temp26_3
+temp26_3 = 1
+arr_3[temp26_3]=temp27_3
+const temp28_3
+temp28_3 = 2
+b_3=temp28_3

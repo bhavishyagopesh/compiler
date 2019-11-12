@@ -1,0 +1,33 @@
+package main
+import fmt
+Func Println_0 :
+Func End#
+Func factorial_0 :
+var ans_3
+var i_3
+i_3 = n_2
+label_for_1 :
+const temp1_4
+temp1_4 = 1
+temp2_4 = i_3 >= temp1_4
+if ! temp2_4 goto endFor_1
+temp3_5 = ans_3 * i_3
+ans_3 = temp3_5
+cond_update_1 :
+i_3 --
+goto label_for_1
+endFor_1 :
+return ans_3
+Func End#
+Func main_0 :
+const temp4_7
+temp4_7 = "Function of 10 is "
+paramst Println_0, 1
+params temp4_7
+const temp5_7
+temp5_7 = 10
+paramst factorial_0, 1
+params temp5_7
+paramst Println_0, 1
+params call factorial_0
+Func End#
